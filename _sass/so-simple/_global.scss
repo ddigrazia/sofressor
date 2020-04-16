@@ -2,7 +2,7 @@
    Dian CSS
    ========================================================================== */
 .tirinha-home {
-  margin-bottom: 21px;
+  margin-bottom: 4em;
 }
 
 /* ==========================================================================
@@ -124,11 +124,11 @@
 
 .site-footer {
   @include clearfix();
-  margin: 2em 0;
-  padding: 2em 0;
+  position: relative;
+  padding-top: 2em;
   text-align: center;
+  bottom: 0;
   /*border-top: 1px solid;*/
-  bottom: 0 !important;
 
   .social-icons {
     margin-bottom: 0.5em;
@@ -142,7 +142,7 @@
 
 .copyright {
   font-size: 0.75rem;
-  position: absolute;
+  position: relative;
   width: 100%;
   bottom: 0;
   margin-bottom: 1%;

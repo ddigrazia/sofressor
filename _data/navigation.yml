@@ -3,8 +3,11 @@
 - title: Home
   url: /.
 
-- title: Tirinhas
-  url: /tirinhas/
+- title: Quadrinhos
+  url: /quadrinhos/
+
+- title: Buscar
+  url: /buscar/
 
 # - title: Posts
 #   url: /posts/

@@ -92,9 +92,10 @@
           var ref = result[item].ref;
           var searchitem =
             '<article class="entry">' +
-              '<h3 class="entry-title">' +
-                '<a href="' + store[ref].url + '">' + store[ref].title + '</a>' +
-              '</h3>' +
+              '<img class="entry-image u-photo" src="/assets/images/' + store[ref].title + '">' +
+              // '<h3 class="entry-title">' +
+              //   '<a href="' + store[ref].url + '">' + store[ref].title + '</a>' +
+              // '</h3>' +
               '<div class="entry-excerpt">' +
                 '<p>' + store[ref].excerpt.split(" ").splice(0, 20).join(" ") + '...</p>' +
               '</div>' +

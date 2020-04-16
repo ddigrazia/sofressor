@@ -1,7 +1,11 @@
 ---
 layout: post
+title: "0001.jpg"
 date: 2010-01-01 00:00:01 -0300
 categories: politica
-image: 
+tags:
+- educação
+- educacao
+image:
   thumbnail: assets/images/0001.jpg
 ---
