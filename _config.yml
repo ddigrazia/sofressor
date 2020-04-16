@@ -18,7 +18,7 @@ theme: jekyll-theme-so-simple
 skin: "/assets/css/skins/default.css"
 locale: en-US
 title: "Sofressor"
-description: "Seria cômico se não fosse a falta de educação."
+description: "Seria uma piada se não fosse a falta de educação."
 baseurl: # the subpath of your site, e.g. "/blog"
 url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 logo: "assets/images/sofressor.jpeg" # path of site logo, e.g. "/images/logo.png"
@@ -43,7 +43,7 @@ liquid:
   error_mode: strict
 
 # Build settings
-permalink: /:categories/:title/
+permalink: /:title/
 markdown: kramdown
 feed:
   path: atom.xml

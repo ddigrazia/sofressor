@@ -4,11 +4,9 @@ layout: page
 
 {{ content }}
 
-
-
 <div class="entries-{{ page.entries_layout | default: 'list' }}">
-  <img class="tirinha-home" src="/assets/images/tirinha-home.jpg">
-  <!-- {%- if site.plugins contains 'jekyll-paginate' and page.paginate or site.gems contains 'jekyll-paginate' and page.paginate -%}
+  
+  {%- if site.plugins contains 'jekyll-paginate' and page.paginate or site.gems contains 'jekyll-paginate' and page.paginate -%}
     {%- comment -%}
       Add paginator.posts loop if jekyll-paginate plugin is enabled
       and page.paginate == true
@@ -16,5 +14,5 @@ layout: page
     {% include posts-paginated.html %}
   {%- else -%}
     {% include posts-limit.html %}
-  {%- endif -%} -->
+  {%- endif -%}
 </div>
