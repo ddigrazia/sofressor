@@ -1,16 +1,9 @@
-# Sample Authors
-# Remove file or replace with your own
+# Fernando Cruz:
+#   name: Fernando Cruz
+#   - title: Facebook
+#     url: https://www.facebook.com/sofressor.tirias
+#     icon: fab fa-facebook-square
 
-Billy Rick:
-  name: Billy Rick
-  picture: /images/bio-photo-2.jpg
-  twitter: "@billyrick"
-  links:
-    - title: Twitter
-      url: https://twitter.com/billyrick
-      icon: fab fa-twitter-square
-
-Cornelius Fiddlebone:
-  name: Cornelius Fiddlebone
-  picture: /images/bio-photo.jpg
-  twitter: corneliusfiddlebone
+#   - title: Instagram
+#     url: https://www.instagram.com/sofressortirias
+#     icon: fab fa-instagram-square

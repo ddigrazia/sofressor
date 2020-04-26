@@ -91,26 +91,30 @@ defaults:
 author:
   name: Fernando Cruz
   picture: 
-  email: 
+  email: filocruz2003@gmail.com
   links:
   - title: Facebook
     url: https://www.facebook.com/sofressor.tirias
-    icon: fas fa-facebook-square
+    icon: fab fa-facebook-square
 
   - title: Instagram
     url: https://www.instagram.com/sofressortirias/
-    icon: fas fa-instagram-square
+    icon: fab fa-instagram
 
+  - title: Twitter
+    url: https://twitter.com/sofressor
+    icon: fab fa-twitter-square
+  
 # Footer Links
 footer_links:
   - title: Facebook
     url: https://www.facebook.com/sofressor.tirias
-    icon: fas fa-facebook-square
+    icon: fab fa-facebook-square
 
   - title: Instagram
     url: https://www.instagram.com/sofressortirias/
-    icon: fas fa-instagram
+    icon: fab fa-instagram
 
-  - title: Feed
-    url: https://www.lipsum.com/
-    icon: fas fa-rss-square
+  - title: Twitter
+    url: https://twitter.com/sofressor
+    icon: fab fa-twitter-square
