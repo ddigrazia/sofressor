@@ -5,4 +5,4 @@ show_excerpts: true
 entries_layout: list
 ---
 
-<img class="tirinha-home" src="http://ddigrazia.github.io/sofressor/assets/images/AMEM.jpg">
+<img class="tirinha-home" src="http://ddigrazia.github.io/sofressor/assets/images/RASTEJAR.jpg">
