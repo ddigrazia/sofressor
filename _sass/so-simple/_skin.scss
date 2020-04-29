@@ -5,7 +5,7 @@
 body {
   color: $text-color;
   background: $background-color;
-  border-top-color: $nav-background-color;
+  /*border-top-color: $nav-background-color;*/
 }
 
 a {
@@ -69,12 +69,14 @@ blockquote {
 .site-nav {
   ul {
     color: $nav-color;
-    background-color: $nav-background-color;
+    /*background-color: $nav-background-color;*/
+    background-color: #eee;
   }
 
   a {
     color: $nav-color;
-    border-color: $nav-background-color;
+    /*border-color: $nav-background-color;*/
+    border-color: #eee;
 
     &:hover {
       border-color: $nav-color;
@@ -121,7 +123,8 @@ blockquote {
 }
 
 #menu-toggle {
-  background-color: $nav-background-color;
+  /*background-color: $nav-background-color;*/
+  background-color: #eee;
 }
 
 #markdown-toc {
