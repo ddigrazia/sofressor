@@ -9,11 +9,11 @@
 - title: Sobre
   url: /sobre/
 
-- title: Buscar
-  url: /buscar/
-
 - title: Livro
   url: /livro/
+
+- title: Buscar
+  url: /buscar/
 
 # - title: Posts
 #   url: /posts/
