@@ -24,6 +24,23 @@
 
 #desc-livro {
   max-width: 50% !important;
+  text-align: justify;
+  text-justify: inter-word;
+  position: relative;
+  display: block;
+  margin: 2em auto 2em auto;
+
+  @include breakpoint($small) {
+      max-width: 90% !important;
+  }
+
+  @include breakpoint($large) {
+      max-width: 70% !important;
+  }
+}
+
+#valores {
+  max-width: 50% !important;
   text-align: center;
   position: relative;
   display: block;
@@ -40,7 +57,8 @@
 
 .sobre-autor {
   max-width: 70% !important;
-  text-align: center;
+  text-align: justify;
+  text-justify: inter-word;
   display: block;
   margin: 2em auto 2em auto;
 
