@@ -8,3 +8,4 @@ tags:
 - educação
 image: 
   thumbnail: assets/images/caradegasrefri.jpg
+  ---
