@@ -7,5 +7,5 @@ tags:
 - educacao
 - educação
 image: 
-  thumbnail: assets/images/demsocais.jpg
+  thumbnail: assets/images/demsociais.jpg
 ---
